@@ -1,9 +1,17 @@
 import pandas
 import os
-abspath = os.path.abspath(__file__)
-dname = os.path.dirname(abspath)
-os.chdir(dname)
 
-#Aggregate the following file:
-df = pandas.read_csv('../Data/Sources/FR/dist/chiffres-cles.csv')
-print(df)
+
+def editDataFR():
+    abspath = os.path.abspath(__file__)
+    dname = os.path.dirname(abspath)
+    os.chdir(dname)
+
+    # Aggregate the following file:
+    dfFR = pandas.read_csv('../Data/Sources/FR/dist/chiffres-cles.csv')
+    dfFR.columns = ['Date', 'RegionType', 'RegionCode', 'Region', 'Conf.Cases', 'Deceas.Cases', 'reanimation', 'Hosp.Cases', 'Cured.Cases', 'sourcenom', 'sourceurl', 'sourcetype']
+    dfFR = dfFR.drop(['reanimation', 'sourcenom', 'sourceurl', 'sourcetype'], axis=1)
+    dfFR = dfFR.melt(id_vars=['Date', 'RegionType', 'RegionCode', 'Region'])
+    return dfFR
+
+dfFR = editDataFR()

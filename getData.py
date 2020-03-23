@@ -18,4 +18,4 @@ load_repo('../Data/Sources/UK', 'https://github.com/emmadoughty/Daily_COVID-19',
 load_repo('../Data/Sources/CH', 'https://github.com/openZH/covid_19/', use_existing=True)
 
 # Germany:
-# Downloaded directly from the source. Check https://github.com/Phrytes/COVID19_RKI_Germany
+load_repo('../Data/Sources/DE', 'https://github.com/Phrytes/COVID19_RKI_Germany.git', use_existing=True)
