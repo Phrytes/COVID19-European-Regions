@@ -12,6 +12,7 @@ def editDataFR():
     dfFR.columns = ['Date', 'RegionType', 'RegionCode', 'Region', 'Conf.Cases', 'Deceas.Cases', 'reanimation', 'Hosp.Cases', 'Cured.Cases', 'sourcenom', 'sourceurl', 'sourcetype']
     dfFR = dfFR.drop(['reanimation', 'sourcenom', 'sourceurl', 'sourcetype'], axis=1)
     dfFR = dfFR.melt(id_vars=['Date', 'RegionType', 'RegionCode', 'Region'])
+    dfFR['Country'] = "FR"
     return dfFR
 
 dfFR = editDataFR()
