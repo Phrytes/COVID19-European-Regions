@@ -8,5 +8,5 @@ def editDataCH():
     os.chdir(dname)
 
     # Aggregate the following file:
-    dfCH = pandas.read_csv('../Data/Sources/CH/COVID19_Cases_Cantons_CH_total.csv')
+    dfCH = pandas.read_csv('../Data/Sources/CH/COVID19_Fallzahlen_CH_total.csv')
     print(dfCH)
