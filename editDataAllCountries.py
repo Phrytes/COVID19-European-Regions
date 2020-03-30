@@ -4,6 +4,7 @@ import editDataItaly
 import editDataNetherlands
 import editDataSwitzerland
 import editDataUnitedKingdom
+import editDataGermany
 import geopandas as gp
 import matplotlib
 
@@ -29,6 +30,9 @@ editDataSwitzerland.editDataCH()
 
 dfUK = editDataUnitedKingdom.editDataUK()
 allDataFrames.append(dfUK)
+
+dfDE = editDataGermany.editDataDE()
+allDataFrames.append(dfDE)
 
 combined_df = pd.concat(allDataFrames, ignore_index=True, sort=True)
 outputLoc = ".\\"
