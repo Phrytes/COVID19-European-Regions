@@ -6,8 +6,8 @@ The goal of this project is to create a unified dataset for all regional data wi
 Try to run Keys_NUTS_1_2_3_all_countries.py and see if it works.
 
 ## Sources / Thanks to
-
-https://github.com/pcm-dpc/COVID-19
+- Italy
+  https://github.com/pcm-dpc/COVID-19
 - Netherlands
   https://github.com/J535D165/CoronaWatchNL.git
 - France
