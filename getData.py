@@ -15,13 +15,13 @@ load_repo('../Data/Sources/FR', 'https://github.com/opencovid19-fr/data', use_ex
 load_repo('../Data/Sources/UK', 'https://github.com/emmadoughty/Daily_COVID-19', use_existing=True)
 
 # Belgium
-
+#load_repo('../Data/Sources/DE', 'https://github.com/Phrytes/COVID19_Sciensano_Belgium/', use_existing=True)
 
 # Switzerland
 load_repo('../Data/Sources/CH', 'https://github.com/openZH/covid_19/', use_existing=True)
 
 # Germany:
-load_repo('../Data/Sources/DE', 'https://github.com/Phrytes/COVID19_RKI_Germany/', use_existing=True)
+#load_repo('../Data/Sources/DE', 'https://github.com/Phrytes/COVID19_RKI_Germany/', use_existing=True)
 
 # Spain:
 load_repo('../Data/Sources/ES', 'https://github.com/datadista/datasets/', use_existing=True)

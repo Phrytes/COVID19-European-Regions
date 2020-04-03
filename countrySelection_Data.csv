@@ -371,17 +371,17 @@ ES,Navarra,
 ES,País Vasco,
 ES,La Rioja,
 ES,Total,
-BE,Prov. Antwerpen,Province
-BE,Prov. BrabantWallon,Province
-BE,Prov. Brussels,Province
-BE,Prov. Hainaut,Province
-BE,Prov. Limburg,Province
-BE,Prov. Liège,Province
-BE,Prov. Luxembourg,Province
-BE,Prov. Namur,Province
-BE,Prov. OostVlaanderen,Province
-BE,Prov. VlaamsBrabant,Province
-BE,Prov. WestVlaanderen,Province
+BE,Antwerpen,Province
+BE,BrabantWallon,Province
+BE,Brussels,Province
+BE,Hainaut,Province
+BE,Limburg,Province
+BE,Liège,Province
+BE,Luxembourg,Province
+BE,Namur,Province
+BE,OostVlaanderen,Province
+BE,VlaamsBrabant,Province
+BE,WestVlaanderen,Province
 BE,Brussels,Region
 BE,Flanders,Region
 BE,Wallonia,Region
