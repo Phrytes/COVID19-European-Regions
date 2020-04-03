@@ -1,0 +1,1199 @@
+CNTR_CODE,NUTS,NUTS_NAME
+DE,3,"Nürnberg, Kreisfreie Stadt"
+DE,3,"Schwabach, Kreisfreie Stadt"
+DE,3,"Ansbach, Landkreis"
+DE,3,Erlangen-Höchstadt
+DE,3,Amberg-Sulzbach
+DE,3,Cham
+DE,3,Neumarkt i. d. OPf.
+DE,3,Neustadt a. d. Waldnaab
+DE,3,"Regensburg, Landkreis"
+DE,3,Schwandorf
+DE,3,Tirschenreuth
+DE,3,"Bamberg, Kreisfreie Stadt"
+DE,3,"Bayreuth, Kreisfreie Stadt"
+DE,3,"Coburg, Kreisfreie Stadt"
+DE,3,"Hof, Kreisfreie Stadt"
+DE,3,"Bamberg, Landkreis"
+DE,3,"Bayreuth, Landkreis"
+DE,3,"Coburg, Landkreis"
+DE,3,Forchheim
+DE,3,"Hof, Landkreis"
+DE,3,Kronach
+DE,3,Kulmbach
+DE,3,Lichtenfels
+DE,3,Wunsiedel i. Fichtelgebirge
+DE,3,"Ansbach, Kreisfreie Stadt"
+DE,3,"Erlangen, Kreisfreie Stadt"
+DE,3,"Fürth, Kreisfreie Stadt"
+DE,3,"Fürth, Landkreis"
+DE,3,Nürnberger Land
+DE,3,Neustadt a. d. Aisch-Bad Windsheim
+DE,3,Roth
+DE,3,Weißenburg-Gunzenhausen
+DE,3,"Aschaffenburg, Kreisfreie Stadt"
+DE,3,"Schweinfurt, Kreisfreie Stadt"
+DE,3,"Würzburg, Kreisfreie Stadt"
+DE,3,"Aschaffenburg, Landkreis"
+DE,3,Bad Kissingen
+DE,3,Rhön-Grabfeld
+DE,3,Haßberge
+DE,3,Kitzingen
+DE,3,Miltenberg
+DE,3,Main-Spessart
+DE,3,"Schweinfurt, Landkreis"
+DE,3,"Würzburg, Landkreis"
+DE,3,"Augsburg, Kreisfreie Stadt"
+DE,3,"Kaufbeuren, Kreisfreie Stadt"
+DE,3,"Kempten (Allgäu), Kreisfreie Stadt"
+DE,3,"Memmingen, Kreisfreie Stadt"
+CH,3,St. Gallen
+CH,3,Graubünden
+CH,3,Thurgau
+CH,3,Luzern
+CH,3,Uri
+CH,3,Schwyz
+CH,3,Obwalden
+CH,3,Nidwalden
+CH,3,Zug
+CH,3,Ticino
+DE,3,"Stuttgart, Stadtkreis"
+DE,3,Böblingen
+DE,3,Esslingen
+DE,3,Göppingen
+DE,3,Ludwigsburg
+DE,3,Rems-Murr-Kreis
+DE,3,"Heilbronn, Stadtkreis"
+DE,3,"Heilbronn, Landkreis"
+DE,3,Hohenlohekreis
+DE,3,Schwäbisch Hall
+DE,3,Main-Tauber-Kreis
+DE,3,Heidenheim
+DE,3,Ostalbkreis
+DE,3,"Baden-Baden, Stadtkreis"
+DE,3,"Karlsruhe, Stadtkreis"
+DE,3,"Karlsruhe, Landkreis"
+DE,3,Rastatt
+DE,3,"Heidelberg, Stadtkreis"
+DE,3,"Mannheim, Stadtkreis"
+DE,3,Neckar-Odenwald-Kreis
+DE,3,Rhein-Neckar-Kreis
+DE,3,"Pforzheim, Stadtkreis"
+DE,3,Calw
+DE,3,Enzkreis
+DE,3,Freudenstadt
+DE,3,"Freiburg im Breisgau, Stadtkreis"
+DE,3,Breisgau-Hochschwarzwald
+DE,3,Emmendingen
+DE,3,Ortenaukreis
+DE,3,Rottweil
+DE,3,Schwarzwald-Baar-Kreis
+DE,3,Tuttlingen
+DE,3,Konstanz
+DE,3,Lörrach
+DE,3,Waldshut
+DE,3,Reutlingen
+DE,3,"Tübingen, Landkreis"
+DE,3,Zollernalbkreis
+DE,3,"Ulm, Stadtkreis"
+DE,3,Alb-Donau-Kreis
+DE,3,Biberach
+DE,3,Bodenseekreis
+DE,3,Ravensburg
+DE,3,Sigmaringen
+DE,3,"Ingolstadt, Kreisfreie Stadt"
+DE,3,"München, Kreisfreie Stadt"
+DE,3,"Rosenheim, Kreisfreie Stadt"
+DE,3,Altötting
+DE,3,Berchtesgadener Land
+DE,3,Bad Tölz-Wolfratshausen
+DE,3,Dachau
+DE,3,Ebersberg
+DE,3,Eichstätt
+DE,3,Erding
+DE,3,Freising
+DE,3,Fürstenfeldbruck
+DE,3,Garmisch-Partenkirchen
+DE,3,Landsberg am Lech
+DE,3,Miesbach
+DE,3,Mühldorf a. Inn
+DE,3,"München, Landkreis"
+DE,3,Neuburg-Schrobenhausen
+DE,3,Pfaffenhofen a. d. Ilm
+DE,3,"Rosenheim, Landkreis"
+DE,3,Starnberg
+DE,3,Traunstein
+DE,3,Weilheim-Schongau
+DE,3,"Landshut, Kreisfreie Stadt"
+DE,3,"Passau, Kreisfreie Stadt"
+DE,3,"Straubing, Kreisfreie Stadt"
+DE,3,Deggendorf
+DE,3,Freyung-Grafenau
+DE,3,Kelheim
+DE,3,"Landshut, Landkreis"
+DE,3,"Passau, Landkreis"
+DE,3,Regen
+DE,3,Rottal-Inn
+DE,3,Straubing-Bogen
+DE,3,Dingolfing-Landau
+DE,3,"Amberg, Kreisfreie Stadt"
+DE,3,"Regensburg, Kreisfreie Stadt"
+DE,3,"Weiden i. d. Opf, Kreisfreie Stadt"
+DE,3,Saalekreis
+DE,3,Salzlandkreis
+DE,3,Stendal
+DE,3,Wittenberg
+DE,3,"Flensburg, Kreisfreie Stadt"
+DE,3,"Kiel, Kreisfreie Stadt"
+DE,3,"Lübeck, Kreisfreie Stadt"
+DE,3,"Neumünster, Kreisfreie Stadt"
+DE,3,Dithmarschen
+DE,3,Herzogtum Lauenburg
+DE,3,Nordfriesland
+DE,3,Ostholstein
+DE,3,Pinneberg
+DE,3,Plön
+DE,3,Rendsburg-Eckernförde
+DE,3,Schleswig-Flensburg
+DE,3,Segeberg
+DE,3,Steinburg
+DE,3,Stormarn
+DE,3,"Erfurt, Kreisfreie Stadt"
+DE,3,"Gera, Kreisfreie Stadt"
+DE,3,"Jena, Kreisfreie Stadt"
+DE,3,"Suhl, Kreisfreie Stadt"
+DE,3,"Weimar, Kreisfreie Stadt"
+DE,3,Eichsfeld
+DE,3,Nordhausen
+DE,3,Unstrut-Hainich-Kreis
+DE,3,Kyffhäuserkreis
+DE,3,Schmalkalden-Meiningen
+DE,3,Gotha
+DE,3,Sömmerda
+DE,3,Hildburghausen
+DE,3,Ilm-Kreis
+DE,3,Weimarer Land
+DE,3,Sonneberg
+DE,3,Saalfeld-Rudolstadt
+DE,3,Saale-Holzland-Kreis
+DE,3,Saale-Orla-Kreis
+DE,3,Greiz
+DE,3,Altenburger Land
+DE,3,"Eisenach, Kreisfreie Stadt"
+DE,3,Wartburgkreis
+BE,3,Arr. de Bruxelles-Capitale/Arr. van Brussel-Hoofdstad
+BE,3,Arr. Antwerpen
+BE,3,Arr. Mechelen
+BE,3,Arr. Turnhout
+BE,3,Arr. Hasselt
+BE,3,Arr. Maaseik
+BE,3,Arr. Tongeren
+BE,3,Arr. Aalst
+BE,3,Arr. Dendermonde
+BE,3,Arr. Eeklo
+BE,3,Arr. Gent
+BE,3,Arr. Oudenaarde
+BE,3,Arr. Sint-Niklaas
+BE,3,Arr. Halle-Vilvoorde
+BE,3,Arr. Leuven
+BE,3,Arr. Brugge
+BE,3,Arr. Diksmuide
+BE,3,Arr. Ieper
+BE,3,Arr. Kortrijk
+BE,3,Arr. Oostende
+BE,3,Arr. Roeselare
+BE,3,Arr. Tielt
+BE,3,Arr. Veurne
+BE,3,Arr. Nivelles
+BE,3,Arr. Ath
+BE,3,Arr. Charleroi
+BE,3,Arr. Mons
+BE,3,Arr. Mouscron
+BE,3,Arr. Soignies
+BE,3,Arr. Thuin
+BE,3,Arr. Tournai
+BE,3,Arr. Huy
+BE,3,Arr. Liège
+BE,3,Arr. Waremme
+BE,3,Arr. Verviers - communes francophones
+BE,3,Bezirk Verviers - Deutschsprachige Gemeinschaft
+BE,3,Arr. Arlon
+BE,3,Arr. Bastogne
+BE,3,Arr. Marche-en-Famenne
+BE,3,Arr. Neufchâteau
+BE,3,Arr. Virton
+BE,3,Arr. Dinant
+BE,3,Arr. Namur
+BE,3,Arr. Philippeville
+CH,3,Vaud
+CH,3,Valais
+CH,3,Genève
+CH,3,Bern
+CH,3,Freiburg
+CH,3,Solothurn
+CH,3,Neuchâtel
+CH,3,Jura
+CH,3,Basel-Stadt
+CH,3,Basel-Landschaft
+CH,3,Aargau
+CH,3,Zürich
+CH,3,Glarus
+CH,3,Schaffhausen
+CH,3,Appenzell Ausserrhoden
+CH,3,Appenzell Innerrhoden
+DE,3,"Mülheim an der Ruhr, Kreisfreie Stadt"
+DE,3,"Oberhausen, Kreisfreie Stadt"
+DE,3,"Remscheid, Kreisfreie Stadt"
+DE,3,"Solingen, Kreisfreie Stadt"
+DE,3,"Wuppertal, Kreisfreie Stadt"
+DE,3,Kleve
+DE,3,Mettmann
+DE,3,Rhein-Kreis Neuss
+DE,3,Viersen
+DE,3,Wesel
+DE,3,"Bonn, Kreisfreie Stadt"
+DE,3,"Köln, Kreisfreie Stadt"
+DE,3,"Leverkusen, Kreisfreie Stadt"
+DE,3,Düren
+DE,3,Rhein-Erft-Kreis
+DE,3,Euskirchen
+DE,3,Heinsberg
+DE,3,Oberbergischer Kreis
+DE,3,Rheinisch-Bergischer Kreis
+DE,3,Rhein-Sieg-Kreis
+DE,3,Städteregion Aachen
+DE,3,"Bottrop, Kreisfreie Stadt"
+DE,3,"Gelsenkirchen, Kreisfreie Stadt"
+DE,3,"Münster, Kreisfreie Stadt"
+DE,3,Borken
+DE,3,Coesfeld
+DE,3,Recklinghausen
+DE,3,Steinfurt
+DE,3,Warendorf
+DE,3,"Bielefeld, Kreisfreie Stadt"
+DE,3,Gütersloh
+DE,3,Herford
+DE,3,Höxter
+DE,3,Lippe
+DE,3,Minden-Lübbecke
+DE,3,Paderborn
+DE,3,"Bochum, Kreisfreie Stadt"
+DE,3,"Dortmund, Kreisfreie Stadt"
+DE,3,"Hagen, Kreisfreie Stadt"
+DE,3,"Hamm, Kreisfreie Stadt"
+DE,3,"Herne, Kreisfreie Stadt"
+DE,3,Ennepe-Ruhr-Kreis
+DE,3,Hochsauerlandkreis
+DE,3,Märkischer Kreis
+DE,3,Olpe
+DE,3,Siegen-Wittgenstein
+DE,3,Soest
+DE,3,Unna
+DE,3,"Koblenz, Kreisfreie Stadt"
+DE,3,Ahrweiler
+DE,3,Altenkirchen (Westerwald)
+DE,3,Bad Kreuznach
+DE,3,Birkenfeld
+DE,3,Mayen-Koblenz
+DE,3,Neuwied
+DE,3,Rhein-Lahn-Kreis
+DE,3,Westerwaldkreis
+DE,3,Cochem-Zell
+DE,3,Rhein-Hunsrück-Kreis
+DE,3,"Trier, Kreisfreie Stadt"
+DE,3,Bernkastel-Wittlich
+DE,3,Eifelkreis Bitburg-Prüm
+DE,3,Vulkaneifel
+DE,3,Trier-Saarburg
+DE,3,"Frankenthal (Pfalz), Kreisfreie Stadt"
+DE,3,"Kaiserslautern, Kreisfreie Stadt"
+DE,3,"Landau in der Pfalz, Kreisfreie Stadt"
+DE,3,"Ludwigshafen am Rhein, Kreisfreie Stadt"
+DE,3,"Mainz, Kreisfreie Stadt"
+DE,3,"Neustadt an der Weinstraße, Kreisfreie Stadt"
+DE,3,"Pirmasens, Kreisfreie Stadt"
+DE,3,"Speyer, Kreisfreie Stadt"
+DE,3,"Worms, Kreisfreie Stadt"
+DE,3,"Zweibrücken, Kreisfreie Stadt"
+DE,3,Alzey-Worms
+DE,3,Bad Dürkheim
+DE,3,Donnersbergkreis
+DE,3,Germersheim
+DE,3,"Kaiserslautern, Landkreis"
+DE,3,Kusel
+DE,3,Südliche Weinstraße
+DE,3,Rhein-Pfalz-Kreis
+DE,3,Mainz-Bingen
+DE,3,Südwestpfalz
+DE,3,Regionalverband Saarbrücken
+DE,3,Merzig-Wadern
+DE,3,Neunkirchen
+DE,3,Saarlouis
+DE,3,Saarpfalz-Kreis
+DE,3,St. Wendel
+DE,3,"Dresden, Kreisfreie Stadt"
+DE,3,Bautzen
+DE,3,Görlitz
+DE,3,Meißen
+DE,3,Sächsische Schweiz-Osterzgebirge
+DE,3,"Chemnitz, Kreisfreie Stadt"
+DE,3,Erzgebirgskreis
+DE,3,Mittelsachsen
+DE,3,Vogtlandkreis
+DE,3,Zwickau
+DE,3,"Leipzig, Kreisfreie Stadt"
+DE,3,Leipzig
+DE,3,Nordsachsen
+DE,3,"Dessau-Roßlau, Kreisfreie Stadt"
+DE,3,"Halle (Saale), Kreisfreie Stadt"
+DE,3,"Magdeburg, Kreisfreie Stadt"
+DE,3,Altmarkkreis Salzwedel
+DE,3,Anhalt-Bitterfeld
+DE,3,Jerichower Land
+DE,3,Börde
+DE,3,Burgenlandkreis
+DE,3,Harz
+DE,3,Mansfeld-Südharz
+FR,3,Hérault
+FR,3,Lozère
+FR,3,Pyrénées-Orientales
+FR,3,Ariège
+FR,3,Aveyron
+FR,3,Haute-Garonne
+FR,3,Gers
+FR,3,Lot
+FR,3,Hautes-Pyrénées
+FR,3,Tarn
+FR,3,Tarn-et-Garonne
+FR,3,Allier
+FR,3,Cantal
+FR,3,Haute-Loire
+FR,3,Puy-de-Dôme
+FR,3,Ain
+FR,3,Ardèche
+FR,3,Drôme
+DE,3,Aichach-Friedberg
+DE,3,"Augsburg, Landkreis"
+DE,3,Dillingen a.d. Donau
+DE,3,Günzburg
+DE,3,Neu-Ulm
+DE,3,Lindau (Bodensee)
+DE,3,Ostallgäu
+DE,3,Unterallgäu
+DE,3,Donau-Ries
+DE,3,Oberallgäu
+DE,3,Berlin
+DE,3,"Brandenburg an der Havel, Kreisfreie Stadt"
+DE,3,"Cottbus, Kreisfreie Stadt"
+DE,3,"Frankfurt (Oder), Kreisfreie Stadt"
+DE,3,"Potsdam, Kreisfreie Stadt"
+DE,3,Barnim
+DE,3,Dahme-Spreewald
+DE,3,Elbe-Elster
+DE,3,Havelland
+DE,3,Märkisch-Oderland
+DE,3,Oberhavel
+DE,3,Oberspreewald-Lausitz
+DE,3,Oder-Spree
+DE,3,Ostprignitz-Ruppin
+DE,3,Potsdam-Mittelmark
+DE,3,Prignitz
+DE,3,Spree-Neiße
+DE,3,Teltow-Fläming
+DE,3,Uckermark
+DE,3,"Bremen, Kreisfreie Stadt"
+DE,3,"Bremerhaven, Kreisfreie Stadt"
+DE,3,Hamburg
+DE,3,"Darmstadt, Kreisfreie Stadt"
+DE,3,"Frankfurt am Main, Kreisfreie Stadt"
+DE,3,"Offenbach am Main, Kreisfreie Stadt"
+DE,3,"Wiesbaden, Kreisfreie Stadt"
+DE,3,Bergstraße
+DE,3,Darmstadt-Dieburg
+DE,3,Groß-Gerau
+DE,3,Hochtaunuskreis
+DE,3,Main-Kinzig-Kreis
+DE,3,Main-Taunus-Kreis
+DE,3,Odenwaldkreis
+DE,3,"Offenbach, Landkreis"
+DE,3,Rheingau-Taunus-Kreis
+DE,3,Wetteraukreis
+DE,3,"Gießen, Landkreis"
+DE,3,Lahn-Dill-Kreis
+DE,3,Limburg-Weilburg
+DE,3,Marburg-Biedenkopf
+DE,3,Vogelsbergkreis
+DE,3,"Kassel, Kreisfreie Stadt"
+DE,3,Fulda
+DE,3,Hersfeld-Rotenburg
+DE,3,"Kassel, Landkreis"
+DE,3,Schwalm-Eder-Kreis
+DE,3,Waldeck-Frankenberg
+DE,3,Werra-Meißner-Kreis
+DE,3,"Rostock, Kreisfreie Stadt"
+DE,3,"Schwerin, Kreisfreie Stadt"
+DE,3,Mecklenburgische Seenplatte
+DE,3,Landkreis Rostock
+DE,3,Vorpommern-Rügen
+DE,3,Nordwestmecklenburg
+DE,3,Vorpommern-Greifswald
+DE,3,Ludwigslust-Parchim
+DE,3,"Braunschweig, Kreisfreie Stadt"
+DE,3,"Salzgitter, Kreisfreie Stadt"
+DE,3,"Wolfsburg, Kreisfreie Stadt"
+DE,3,Gifhorn
+DE,3,Goslar
+DE,3,Helmstedt
+DE,3,Northeim
+DE,3,Peine
+DE,3,Wolfenbüttel
+DE,3,Göttingen
+DE,3,Diepholz
+DE,3,Hameln-Pyrmont
+DE,3,Hildesheim
+DE,3,Holzminden
+DE,3,Nienburg (Weser)
+DE,3,Schaumburg
+DE,3,Region Hannover
+DE,3,Celle
+DE,3,Cuxhaven
+DE,3,Harburg
+DE,3,Lüchow-Dannenberg
+DE,3,"Lüneburg, Landkreis"
+DE,3,Osterholz
+DE,3,Rotenburg (Wümme)
+DE,3,Heidekreis
+DE,3,Stade
+DE,3,Uelzen
+DE,3,Verden
+DE,3,"Delmenhorst, Kreisfreie Stadt"
+DE,3,"Emden, Kreisfreie Stadt"
+DE,3,"Oldenburg (Oldenburg), Kreisfreie Stadt"
+DE,3,"Osnabrück, Kreisfreie Stadt"
+DE,3,"Wilhelmshaven, Kreisfreie Stadt"
+DE,3,Ammerland
+DE,3,Aurich
+DE,3,Cloppenburg
+DE,3,Emsland
+DE,3,Friesland (DE)
+DE,3,Grafschaft Bentheim
+DE,3,Leer
+DE,3,"Oldenburg, Landkreis"
+DE,3,"Osnabrück, Landkreis"
+DE,3,Vechta
+DE,3,Wesermarsch
+DE,3,Wittmund
+DE,3,"Düsseldorf, Kreisfreie Stadt"
+DE,3,"Duisburg, Kreisfreie Stadt"
+DE,3,"Essen, Kreisfreie Stadt"
+DE,3,"Krefeld, Kreisfreie Stadt"
+DE,3,"Mönchengladbach, Kreisfreie Stadt"
+FR,3,Isère
+FR,3,Loire
+FR,3,Rhône
+FR,3,Savoie
+FR,3,Haute-Savoie
+FR,3,Alpes-de-Haute-Provence
+FR,3,Hautes-Alpes
+FR,3,Alpes-Maritimes
+FR,3,Bouches-du-Rhône
+FR,3,Var
+FR,3,Vaucluse
+FR,3,Corse-du-Sud
+FR,3,Haute-Corse
+ES,3,A Coruña
+ES,3,Lugo
+ES,3,Ourense
+FR,3,Paris
+FR,3,Seine-et-Marne
+FR,3,Yvelines
+FR,3,Essonne
+FR,3,Hauts-de-Seine
+FR,3,Seine-Saint-Denis
+FR,3,Val-de-Marne
+FR,3,Val-d'Oise
+FR,3,Cher
+FR,3,Eure-et-Loir
+FR,3,Indre
+FR,3,Indre-et-Loire
+FR,3,Loir-et-Cher
+FR,3,Loiret
+FR,3,Côte-d’Or
+FR,3,Nièvre
+FR,3,Saône-et-Loire
+FR,3,Yonne
+FR,3,Doubs
+FR,3,Jura
+FR,3,Haute-Saône
+FR,3,Territoire de Belfort
+FR,3,Calvados
+FR,3,Manche
+FR,3,Orne
+FR,3,Eure
+FR,3,Seine-Maritime
+FR,3,Nord
+FR,3,Pas-de-Calais
+FR,3,Aisne
+FR,3,Oise
+FR,3,Somme
+FR,3,Bas-Rhin
+FR,3,Haut-Rhin
+FR,3,Ardennes
+FR,3,Aube
+FR,3,Marne
+FR,3,Haute-Marne
+FR,3,Meurthe-et-Moselle
+FR,3,Meuse
+FR,3,Moselle
+FR,3,Vosges
+FR,3,Loire-Atlantique
+FR,3,Maine-et-Loire
+FR,3,Mayenne
+FR,3,Sarthe
+FR,3,Vendée
+FR,3,Côtes-d’Armor
+FR,3,Finistère
+FR,3,Ille-et-Vilaine
+FR,3,Morbihan
+FR,3,Dordogne
+FR,3,Gironde
+FR,3,Landes
+FR,3,Lot-et-Garonne
+FR,3,Pyrénées-Atlantiques
+FR,3,Corrèze
+FR,3,Creuse
+FR,3,Haute-Vienne
+FR,3,Charente
+FR,3,Charente-Maritime
+FR,3,Deux-Sèvres
+FR,3,Vienne
+FR,3,Aude
+FR,3,Gard
+NL,3,Oost-Groningen
+NL,3,Delfzijl en omgeving
+NL,3,Overig Groningen
+ES,3,Pontevedra
+ES,3,Asturias
+ES,3,Cantabria
+ES,3,Araba/Álava
+ES,3,Gipuzkoa
+ES,3,Bizkaia
+ES,3,Navarra
+ES,3,La Rioja
+ES,3,Huesca
+ES,3,Teruel
+ES,3,Zaragoza
+ES,3,Madrid
+ES,3,Ávila
+ES,3,Burgos
+ES,3,León
+ES,3,Palencia
+ES,3,Salamanca
+ES,3,Segovia
+ES,3,Soria
+ES,3,Valladolid
+ES,3,Zamora
+ES,3,Albacete
+ES,3,Ciudad Real
+ES,3,Cuenca
+ES,3,Guadalajara
+ES,3,Toledo
+ES,3,Badajoz
+ES,3,Cáceres
+ES,3,Barcelona
+ES,3,Girona
+ES,3,Lleida
+ES,3,Tarragona
+ES,3,Alicante / Alacant
+ES,3,Castellón / Castelló
+ES,3,Valencia / València
+ES,3,Eivissa y Formentera
+ES,3,Mallorca
+ES,3,Menorca
+ES,3,Almería
+ES,3,Cádiz
+ES,3,Córdoba
+ES,3,Granada
+ES,3,Huelva
+ES,3,Jaén
+ES,3,Málaga
+ES,3,Sevilla
+ES,3,Murcia
+ES,3,Ceuta
+ES,3,Melilla
+ES,3,El Hierro
+ES,3,Fuerteventura
+ES,3,Gran Canaria
+ES,3,La Gomera
+ES,3,La Palma
+ES,3,Lanzarote
+ES,3,Tenerife
+NL,3,Noord-Friesland
+NL,3,Zuidwest-Friesland
+NL,3,Zuidoost-Friesland
+NL,3,Noord-Drenthe
+NL,3,Zuidoost-Drenthe
+NL,3,Zuidwest-Drenthe
+NL,3,Noord-Overijssel
+NL,3,Zuidwest-Overijssel
+NL,3,Twente
+NL,3,Veluwe
+NL,3,Zuidwest-Gelderland
+NL,3,Achterhoek
+NL,3,Arnhem/Nijmegen
+NL,3,Flevoland
+NL,3,Utrecht
+NL,3,Kop van Noord-Holland
+NL,3,IJmond
+NL,3,Agglomeratie Haarlem
+NL,3,Zaanstreek
+NL,3,Het Gooi en Vechtstreek
+NL,3,Alkmaar en omgeving
+NL,3,Groot-Amsterdam
+NL,3,Agglomeratie's-Gravenhage
+NL,3,Delft en Westland
+NL,3,Agglomeratie Leiden en Bollenstreek
+NL,3,Zuidoost-Zuid-Holland
+NL,3,Oost-Zuid-Holland
+NL,3,Groot-Rijnmond
+NL,3,Zeeuwsch-Vlaanderen
+NL,3,Overig Zeeland
+NL,3,West-Noord-Brabant
+NL,3,Midden-Noord-Brabant
+NL,3,Noordoost-Noord-Brabant
+NL,3,Zuidoost-Noord-Brabant
+NL,3,Noord-Limburg
+IT,3,Salerno
+IT,3,Taranto
+IT,3,Brindisi
+IT,3,Lecce
+IT,3,Foggia
+IT,3,Bari
+IT,3,Barletta-Andria-Trani
+IT,3,Potenza
+IT,3,Matera
+IT,3,Cosenza
+IT,3,Crotone
+IT,3,Catanzaro
+IT,3,Vibo Valentia
+IT,3,Reggio di Calabria
+IT,3,Trapani
+IT,3,Palermo
+IT,3,Messina
+IT,3,Agrigento
+IT,3,Caltanissetta
+IT,3,Enna
+IT,3,Catania
+IT,3,Ragusa
+IT,3,Siracusa
+IT,3,Sassari
+IT,3,Nuoro
+IT,3,Cagliari
+IT,3,Oristano
+IT,3,Olbia-Tempio
+IT,3,Ogliastra
+IT,3,Medio Campidano
+IT,3,Carbonia-Iglesias
+IT,3,Bolzano-Bozen
+IT,3,Trento
+IT,3,Verona
+IT,3,Vicenza
+IT,3,Belluno
+IT,3,Treviso
+IT,3,Venezia
+IT,3,Padova
+IT,3,Rovigo
+IT,3,Pordenone
+IT,3,Udine
+IT,3,Gorizia
+IT,3,Trieste
+IT,3,Piacenza
+IT,3,Parma
+IT,3,Reggio nell'Emilia
+IT,3,Modena
+IT,3,Bologna
+IT,3,Ferrara
+IT,3,Ravenna
+IT,3,Forlì-Cesena
+IT,3,Rimini
+IT,3,Massa-Carrara
+IT,3,Lucca
+IT,3,Pistoia
+IT,3,Firenze
+IT,3,Prato
+IT,3,Livorno
+IT,3,Pisa
+IT,3,Arezzo
+IT,3,Siena
+IT,3,Grosseto
+IT,3,Perugia
+IT,3,Terni
+IT,3,Pesaro e Urbino
+IT,3,Ancona
+IT,3,Macerata
+IT,3,Ascoli Piceno
+IT,3,Fermo
+IT,3,Viterbo
+IT,3,Rieti
+IT,3,Roma
+IT,3,Latina
+IT,3,Frosinone
+UK,3,West Kent
+UK,3,"Bristol, City of"
+NL,3,Midden-Limburg
+NL,3,Zuid-Limburg
+FR,3,Guadeloupe
+FR,3,Martinique
+FR,3,Guyane
+FR,3,La Réunion
+FR,3,Mayotte
+IT,3,Torino
+IT,3,Vercelli
+IT,3,Biella
+IT,3,Verbano-Cusio-Ossola
+IT,3,Novara
+IT,3,Cuneo
+IT,3,Asti
+IT,3,Alessandria
+IT,3,Valle d'Aosta/Vallée d'Aoste
+IT,3,Imperia
+IT,3,Savona
+IT,3,Genova
+IT,3,La Spezia
+IT,3,Varese
+IT,3,Como
+IT,3,Lecco
+IT,3,Sondrio
+IT,3,Bergamo
+IT,3,Brescia
+IT,3,Pavia
+IT,3,Lodi
+IT,3,Cremona
+IT,3,Mantova
+IT,3,Milano
+IT,3,Monza e della Brianza
+IT,3,L'Aquila
+IT,3,Teramo
+IT,3,Pescara
+IT,3,Chieti
+IT,3,Isernia
+IT,3,Campobasso
+IT,3,Caserta
+IT,3,Benevento
+IT,3,Napoli
+IT,3,Avellino
+UK,3,Haringey and Islington
+UK,3,Lewisham and Southwark
+UK,3,Lambeth
+UK,3,Bexley and Greenwich
+UK,3,Barking & Dagenham and Havering
+UK,3,Redbridge and Waltham Forest
+UK,3,Enfield
+UK,3,Bromley
+UK,3,Croydon
+UK,3,"Merton, Kingston upon Thames and Sutton"
+UK,3,Barnet
+UK,3,Brent
+UK,3,Ealing
+UK,3,Harrow and Hillingdon
+UK,3,Hounslow and Richmond upon Thames
+UK,3,Berkshire
+UK,3,Milton Keynes
+UK,3,Buckinghamshire CC
+UK,3,Oxfordshire
+UK,3,Brighton and Hove
+UK,3,East Sussex CC
+UK,3,West Surrey
+UK,3,East Surrey
+UK,3,West Sussex (South West)
+UK,3,West Sussex (North East)
+UK,3,Portsmouth
+UK,3,Southampton
+UK,3,Isle of Wight
+UK,3,South Hampshire
+UK,3,Central Hampshire
+UK,3,North Hampshire
+UK,3,Medway
+UK,3,Kent Thames Gateway
+UK,3,East Kent
+UK,3,Mid Kent
+UK,3,Flintshire and Wrexham
+UK,3,Powys
+UK,3,"Bath and North East Somerset, North Somerset and South Gloucestershire"
+UK,3,Gloucestershire
+UK,3,Swindon
+UK,3,Wiltshire CC
+UK,3,Bournemouth and Poole
+UK,3,Dorset CC
+UK,3,Somerset
+UK,3,Cornwall and Isles of Scilly
+UK,3,North Lanarkshire
+UK,3,Scottish Borders
+UK,3,Dumfries & Galloway
+UK,3,East Ayrshire and North Ayrshire mainland
+UK,3,South Ayrshire
+UK,3,South Lanarkshire
+UK,3,Belfast
+UK,3,"Armagh City, Banbridge and Craigavon"
+UK,3,"Newry, Mourne and Down"
+UK,3,Ards and North Down
+UK,3,Derry City and Strabane
+UK,3,Mid Ulster
+UK,3,Causeway Coast and Glens
+UK,3,Antrim and Newtownabbey
+UK,3,Lisburn and Castlereagh
+UK,3,Mid and East Antrim
+UK,3,Fermanagh and Omagh
+UK,3,Plymouth
+UK,3,Torbay
+UK,3,Devon CC
+UK,3,Isle of Anglesey
+UK,3,Gwynedd
+UK,3,Conwy and Denbighshire
+UK,3,South West Wales
+UK,3,Central Valleys
+UK,3,Gwent Valleys
+UK,3,Bridgend and Neath Port Talbot
+UK,3,Swansea
+UK,3,Monmouthshire and Newport
+UK,3,Cardiff and Vale of Glamorgan
+UK,3,Birmingham
+UK,3,Solihull
+UK,3,Coventry
+UK,3,Dudley
+UK,3,Sandwell
+UK,3,Walsall
+UK,3,Wolverhampton
+UK,3,Peterborough
+UK,3,Cambridgeshire CC
+UK,3,Suffolk
+UK,3,Norwich and East Norfolk
+UK,3,North and West Norfolk
+UK,3,Breckland and South Norfolk
+UK,3,Luton
+UK,3,Hertfordshire
+UK,3,Bedford
+UK,3,Central Bedfordshire
+UK,3,Southend-on-Sea
+UK,3,Thurrock
+UK,3,Essex Haven Gateway
+UK,3,West Essex
+UK,3,Heart of Essex
+UK,3,Essex Thames Gateway
+UK,3,Camden and City of London
+UK,3,Westminster
+UK,3,Kensington & Chelsea and Hammersmith & Fulham
+UK,3,Wandsworth
+UK,3,Hackney and Newham
+UK,3,Tower Hamlets
+UK,3,Hartlepool and Stockton-on-Tees
+UK,3,South Teesside
+UK,3,Darlington
+UK,3,Durham CC
+UK,3,Northumberland
+UK,3,Tyneside
+UK,3,Sunderland
+UK,3,West Cumbria
+UK,3,East Cumbria
+UK,3,Manchester
+UK,3,Greater Manchester South West
+UK,3,Greater Manchester South East
+UK,3,Greater Manchester North West
+UK,3,Greater Manchester North East
+UK,3,Blackburn with Darwen
+UK,3,Blackpool
+UK,3,Lancaster and Wyre
+UK,3,Mid Lancashire
+UK,3,East Lancashire
+UK,3,Chorley and West Lancashire
+UK,3,Warrington
+UK,3,Cheshire East
+UK,3,Cheshire West and Chester
+UK,3,East Merseyside
+UK,3,Liverpool
+UK,3,Sefton
+UK,3,Wirral
+UK,3,"Kingston upon Hull, City of"
+UK,3,East Riding of Yorkshire
+UK,3,North and North East Lincolnshire
+UK,3,York
+UK,3,North Yorkshire CC
+UK,3,"Barnsley, Doncaster and Rotherham"
+UK,3,Sheffield
+UK,3,Bradford
+UK,3,Leeds
+UK,3,Calderdale and Kirklees
+UK,3,Wakefield
+UK,3,Derby
+UK,3,East Derbyshire
+UK,3,South and West Derbyshire
+UK,3,Nottingham
+UK,3,North Nottinghamshire
+UK,3,South Nottinghamshire
+UK,3,Leicester
+UK,3,Leicestershire CC and Rutland
+UK,3,West Northamptonshire
+UK,3,North Northamptonshire
+UK,3,Lincolnshire
+UK,3,"Herefordshire, County of"
+UK,3,Worcestershire
+UK,3,Warwickshire
+UK,3,Telford and Wrekin
+UK,3,Shropshire CC
+UK,3,Stoke-on-Trent
+UK,3,Staffordshire CC
+UK,3,Aberdeen City and Aberdeenshire
+UK,3,Caithness & Sutherland and Ross & Cromarty
+UK,3,"Inverness & Nairn and Moray, Badenoch & Strathspey"
+UK,3,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute"
+UK,3,Na h-Eileanan Siar (Western Isles)
+UK,3,Orkney Islands
+UK,3,Shetland Islands
+UK,3,Angus and Dundee City
+UK,3,Clackmannanshire and Fife
+UK,3,East Lothian and Midlothian
+UK,3,"Edinburgh, City of"
+UK,3,Falkirk
+UK,3,Perth & Kinross and Stirling
+UK,3,West Lothian
+UK,3,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond"
+UK,3,Glasgow City
+UK,3,"Inverclyde, East Renfrewshire and Renfrewshire"
+DE,2,Stuttgart
+DE,2,Karlsruhe
+DE,2,Freiburg
+DE,2,Tübingen
+DE,2,Oberbayern
+DE,2,Niederbayern
+DE,2,Oberpfalz
+DE,2,Oberfranken
+DE,2,Mittelfranken
+DE,2,Unterfranken
+DE,2,Schwaben
+DE,2,Berlin
+DE,2,Saarland
+DE,2,Dresden
+DE,2,Chemnitz
+DE,2,Leipzig
+DE,2,Sachsen-Anhalt
+DE,2,Schleswig-Holstein
+DE,2,Thüringen
+DE,2,Brandenburg
+DE,2,Bremen
+DE,2,Hamburg
+DE,2,Darmstadt
+DE,2,Gießen
+DE,2,Kassel
+DE,2,Mecklenburg-Vorpommern
+DE,2,Braunschweig
+DE,2,Hannover
+BE,2,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest
+BE,2,Prov. Antwerpen
+BE,2,Prov. Limburg (BE)
+BE,2,Prov. Oost-Vlaanderen
+BE,2,Prov. Vlaams-Brabant
+BE,2,Prov. West-Vlaanderen
+BE,2,Prov. Brabant Wallon
+BE,2,Prov. Hainaut
+BE,2,Prov. Liège
+BE,2,Prov. Luxembourg (BE)
+BE,2,Prov. Namur
+CH,2,Région lémanique
+CH,2,Espace Mittelland
+CH,2,Nordwestschweiz
+CH,2,Zürich
+CH,2,Ostschweiz
+CH,2,Zentralschweiz
+CH,2,Ticino
+IT,2,Sardegna
+IT,2,Provincia Autonoma di Bolzano/Bozen
+IT,2,Provincia Autonoma di Trento
+IT,2,Veneto
+IT,2,Friuli-Venezia Giulia
+IT,2,Emilia-Romagna
+IT,2,Toscana
+IT,2,Umbria
+IT,2,Marche
+IT,2,Lazio
+DE,2,Lüneburg
+DE,2,Weser-Ems
+DE,2,Düsseldorf
+DE,2,Köln
+DE,2,Münster
+DE,2,Detmold
+DE,2,Arnsberg
+DE,2,Koblenz
+DE,2,Trier
+DE,2,Rheinhessen-Pfalz
+NL,2,Groningen
+FR,2,Bretagne
+FR,2,Aquitaine
+FR,2,Limousin
+FR,2,Poitou-Charentes
+FR,2,Languedoc-Roussillon
+FR,2,Midi-Pyrénées
+FR,2,Auvergne
+FR,2,Rhône-Alpes
+FR,2,Provence-Alpes-Côte d’Azur
+FR,2,Corse
+FR,2,Guadeloupe
+FR,2,Martinique
+FR,2,Guyane
+FR,2,La Réunion
+FR,2,Mayotte
+IT,2,Piemonte
+IT,2,Valle d'Aosta/Vallée d'Aoste
+IT,2,Liguria
+IT,2,Lombardia
+IT,2,Abruzzo
+IT,2,Molise
+IT,2,Campania
+IT,2,Puglia
+IT,2,Basilicata
+IT,2,Calabria
+IT,2,Sicilia
+UK,2,Outer London - West and North West
+UK,2,"Berkshire, Buckinghamshire and Oxfordshire"
+UK,2,"Surrey, East and West Sussex"
+UK,2,Hampshire and Isle of Wight
+UK,2,Kent
+UK,2,"Gloucestershire, Wiltshire and Bristol/Bath area"
+UK,2,Dorset and Somerset
+UK,2,Cornwall and Isles of Scilly
+UK,2,Devon
+ES,2,Galicia
+ES,2,Principado de Asturias
+ES,2,Cantabria
+ES,2,País Vasco
+ES,2,Comunidad Foral de Navarra
+ES,2,La Rioja
+ES,2,Aragón
+ES,2,Comunidad de Madrid
+ES,2,Castilla y León
+ES,2,Castilla-La Mancha
+ES,2,Extremadura
+ES,2,Cataluña
+ES,2,Comunidad Valenciana
+ES,2,Illes Balears
+ES,2,Andalucía
+ES,2,Región de Murcia
+ES,2,Ciudad Autónoma de Ceuta
+ES,2,Ciudad Autónoma de Melilla
+ES,2,Canarias
+FR,2,Ile-de-France
+FR,2,Centre - Val de Loire
+FR,2,Bourgogne
+FR,2,Franche-Comté
+FR,2,Basse-Normandie
+FR,2,Haute-Normandie
+FR,2,Nord-Pas de Calais
+FR,2,Picardie
+FR,2,Alsace
+FR,2,Champagne-Ardenne
+FR,2,Lorraine
+FR,2,Pays de la Loire
+UK,2,East Wales
+UK,2,North Eastern Scotland
+UK,2,Highlands and Islands
+UK,2,Eastern Scotland
+UK,2,West Central Scotland
+UK,2,Southern Scotland
+UK,2,Tees Valley and Durham
+UK,2,Northumberland and Tyne and Wear
+UK,2,Cumbria
+UK,2,Greater Manchester
+UK,2,Lancashire
+UK,2,Cheshire
+UK,2,Merseyside
+UK,2,East Yorkshire and Northern Lincolnshire
+UK,2,North Yorkshire
+UK,2,South Yorkshire
+UK,2,West Yorkshire
+UK,2,Derbyshire and Nottinghamshire
+UK,2,"Leicestershire, Rutland and Northamptonshire"
+UK,2,Lincolnshire
+UK,2,"Herefordshire, Worcestershire and Warwickshire"
+UK,2,Shropshire and Staffordshire
+UK,2,West Midlands
+UK,2,East Anglia
+UK,2,Bedfordshire and Hertfordshire
+UK,2,Essex
+UK,2,Inner London - West
+UK,2,Inner London - East
+UK,2,Outer London - East and North East
+UK,2,Outer London - South
+NL,2,Friesland (NL)
+NL,2,Drenthe
+NL,2,Overijssel
+NL,2,Gelderland
+NL,2,Flevoland
+NL,2,Utrecht
+NL,2,Noord-Holland
+NL,2,Zuid-Holland
+NL,2,Zeeland
+NL,2,Noord-Brabant
+NL,2,Limburg (NL)
+UK,2,Northern Ireland
+UK,2,West Wales and The Valleys
+BE,1,RÉGION DE BRUXELLES-CAPITALE/BRUSSELS HOOFDSTEDELIJK GEWEST
+BE,1,VLAAMS GEWEST
+BE,1,RÉGION WALLONNE
+CH,1,SCHWEIZ/SUISSE/SVIZZERA
+DE,1,BAYERN
+DE,1,BERLIN
+DE,1,BRANDENBURG
+DE,1,BREMEN
+DE,1,HAMBURG
+DE,1,HESSEN
+DE,1,MECKLENBURG-VORPOMMERN
+DE,1,NIEDERSACHSEN
+DE,1,NORDRHEIN-WESTFALEN
+DE,1,RHEINLAND-PFALZ
+DE,1,SAARLAND
+DE,1,SACHSEN
+DE,1,SACHSEN-ANHALT
+DE,1,SCHLESWIG-HOLSTEIN
+DE,1,THÜRINGEN
+ES,1,NOROESTE
+DE,1,BADEN-WÜRTTEMBERG
+IT,1,NORD-OVEST
+IT,1,SUD
+IT,1,ISOLE
+IT,1,NORD-EST
+IT,1,CENTRO (IT)
+NL,1,NOORD-NEDERLAND
+NL,1,OOST-NEDERLAND
+NL,1,WEST-NEDERLAND
+NL,1,ZUID-NEDERLAND
+ES,1,NORESTE
+ES,1,COMUNIDAD DE MADRID
+ES,1,CENTRO (ES)
+ES,1,ESTE
+ES,1,SUR
+ES,1,CANARIAS
+FR,1,ILE-DE-FRANCE
+FR,1,CENTRE - VAL DE LOIRE
+FR,1,BOURGOGNE-FRANCHE-COMTÉ
+FR,1,NORMANDIE
+FR,1,NORD-PAS DE CALAIS-PICARDIE
+FR,1,ALSACE-CHAMPAGNE-ARDENNE-LORRAINE
+FR,1,PAYS DE LA LOIRE
+FR,1,BRETAGNE
+FR,1,AQUITAINE-LIMOUSIN-POITOU-CHARENTES
+FR,1,LANGUEDOC-ROUSSILLON-MIDI-PYRÉNÉES
+FR,1,AUVERGNE-RHÔNE-ALPES
+FR,1,PROVENCE-ALPES-CÔTE D’AZUR
+FR,1,CORSE
+FR,1,RUP FR - RÉGIONS ULTRAPÉRIPHÉRIQUES FRANÇAISES
+UK,1,SOUTH EAST (ENGLAND)
+UK,1,SOUTH WEST (ENGLAND)
+UK,1,WALES
+UK,1,SCOTLAND
+UK,1,NORTHERN IRELAND
+UK,1,NORTH EAST (ENGLAND)
+UK,1,NORTH WEST (ENGLAND)
+UK,1,YORKSHIRE AND THE HUMBER
+UK,1,EAST MIDLANDS (ENGLAND)
+UK,1,WEST MIDLANDS (ENGLAND)
+UK,1,EAST OF ENGLAND
+UK,1,LONDON
