@@ -3,7 +3,7 @@
 ## UNDER CONSTRUCTION
 The goal of this project is to create a unified dataset for all regional data within Europe. EU countries will be split up into NUTS-regions. Other countries (UK, Switzerland) will need a different subdivision
 
-Try to run Keys_NUTS_1_2_3_all_countries.py and see if it works.
+Try to run getData.py first, followed by Keys_NUTS_1_2_3_all_countries.py and see if it works.
 
 ## Sources / Thanks to
 - Italy
