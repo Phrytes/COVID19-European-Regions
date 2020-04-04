@@ -16,14 +16,14 @@ def editDataBE():
     dfBE_Hosp_Regions = dfBE_Hosp.groupby(['DATE', 'REGION'], as_index=False).sum()
     dfBE_Mort_Regions = dfBE_Mort.groupby(['DATE', 'REGION'], as_index=False).sum()
     dfBE_Regions = pd.merge(dfBE_Mort_Regions, dfBE_Hosp_Regions, on=['DATE', 'REGION'])
-    dfBE_Regions.columns = ['Date', 'Region', 'Deceas.Cases', 'reportingHospitals', 'Hosp.Cases', 'IC.Cases', 'respCases',
+    dfBE_Regions.columns = ['Date', 'Region', 'Deceas.Cases', 'reportingHospitals', 'Hosp.Cases', 'IC.Cases', 'Hosp.Resp.Cases',
                     'ecmoCases', 'new_in.Hosp.Cases', 'new_out.Hosp.Cases']
     dfBE_Regions['RegionType'] = "Region"
     dfBE_Regions = dfBE_Regions.melt(id_vars=['Date', 'RegionType', 'Region'])
     # 2. By province
     dfBE_Hosp_Provs = dfBE_Hosp.groupby(['DATE', 'PROVINCE'], as_index=False).sum()
     dfBE_Hosp_Provs.columns = ['Date', 'Region', 'reportingHospitals', 'Hosp.Cases', 'IC.Cases',
-                            'respCases', 'ecmoCases', 'new_in.Hosp.Cases', 'new_out.Hosp.Cases']
+                            'Hosp.Resp.Cases', 'ecmoCases', 'new_in.Hosp.Cases', 'new_out.Hosp.Cases']
     dfBE_Hosp_Provs['RegionType'] = "Province"
     dfBE_Hosp_Provs = dfBE_Hosp_Provs.melt(id_vars=['Date', 'RegionType', 'Region'])
     # Put files together

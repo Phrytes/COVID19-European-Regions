@@ -57,32 +57,32 @@ BE,2,Prov. Namur,Namur
 BE,1,RÉGION DE BRUXELLES-CAPITALE/BRUSSELS HOOFDSTEDELIJK GEWEST,Brussels
 BE,1,VLAAMS GEWEST,Flanders
 BE,1,RÉGION WALLONNE,Wallonia
-CH,3,St. Gallen,
-CH,3,Graubünden,
-CH,3,Thurgau,
-CH,3,Luzern,
-CH,3,Uri,
-CH,3,Schwyz,
-CH,3,Obwalden,
-CH,3,Nidwalden,
-CH,3,Zug,
-CH,3,Ticino,
-CH,3,Vaud,
-CH,3,Valais,
-CH,3,Genève,
-CH,3,Bern,
-CH,3,Freiburg,
-CH,3,Solothurn,
-CH,3,Neuchâtel,
-CH,3,Jura,
-CH,3,Basel-Stadt,
-CH,3,Basel-Landschaft,
-CH,3,Aargau,
-CH,3,Zürich,
-CH,3,Glarus,
-CH,3,Schaffhausen,
-CH,3,Appenzell Ausserrhoden,
-CH,3,Appenzell Innerrhoden,
+CH,3,Aargau,AG
+CH,3,Appenzell Ausserrhoden,AR
+CH,3,Appenzell Innerrhoden,AI
+CH,3,Basel-Landschaft,BL
+CH,3,Basel-Stadt,BS
+CH,3,Bern,BE
+CH,3,Freiburg,FR
+CH,3,Genève,GE
+CH,3,Glarus,GL
+CH,3,Graubünden,GR
+CH,3,Jura,JU
+CH,3,Luzern,LU
+CH,3,Neuchâtel,NE
+CH,3,Nidwalden,NW
+CH,3,Obwalden,OW
+CH,3,Schaffhausen,SH
+CH,3,Schwyz,SZ
+CH,3,Solothurn,SO
+CH,3,St. Gallen,SG
+CH,3,Thurgau,TG
+CH,3,Ticino,TI
+CH,3,Uri,UR
+CH,3,Valais,VS
+CH,3,Vaud,VD
+CH,3,Zug,ZG
+CH,3,Zürich,ZH
 CH,2,Région lémanique,
 CH,2,Espace Mittelland,
 CH,2,Nordwestschweiz,
@@ -91,6 +91,7 @@ CH,2,Ostschweiz,
 CH,2,Zentralschweiz,
 CH,2,Ticino,
 CH,1,SCHWEIZ/SUISSE/SVIZZERA,
+LI,3,Liechtenstein,FL
 DE,3,"Nürnberg, Kreisfreie Stadt",
 DE,3,"Schwabach, Kreisfreie Stadt",
 DE,3,"Ansbach, Landkreis",

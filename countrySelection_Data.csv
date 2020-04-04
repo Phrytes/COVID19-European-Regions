@@ -159,6 +159,33 @@ NL,Overijssel,Province
 NL,Zeeland,Province
 NL,Friesland,Province
 NL,Groningen,Province
+CH,GE,
+CH,TI,
+LI,FL,
+CH,ZH,
+CH,BS,
+CH,BE,
+CH,BL,
+CH,VD,
+CH,VS,
+CH,AG,
+CH,FR,
+CH,GL,
+CH,NE,
+CH,SG,
+CH,JU,
+CH,SZ,
+CH,ZG,
+CH,LU,
+CH,AR,
+CH,SO,
+CH,NW,
+CH,UR,
+CH,OW,
+CH,AI,
+CH,TG,
+CH,GR,
+CH,SH,
 UK,Barking and Dagenham,UTLA
 UK,Barnet,UTLA
 UK,Barnsley,UTLA
@@ -334,7 +361,6 @@ UK,Northern Ireland,Country
 UK,Orkney,NHS_region
 UK,Eileanan Siar (Western Isles),NHS_region
 DE,Schles­wig-Holstein,Bundesland
-DE,Bayern,Bundesland
 DE,Berlin,Bundesland
 DE,Brandenburg,Bundesland
 DE,Bremen,Bundesland
@@ -348,6 +374,7 @@ DE,Saarland,Bundesland
 DE,Sachsen,Bundesland
 DE,Sachsen-Anhalt,Bundesland
 DE,Thüringen,Bundesland
+DE,Bayern,Bundesland
 DE,Baden-Württem­berg,Bundesland
 DE,"Mecklenburg-
 Vor­pommern",Bundesland
