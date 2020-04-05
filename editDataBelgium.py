@@ -1,6 +1,13 @@
 import os
 import pandas as pd
 
+# Connect to variable table
+# Combine general, hosp and mort data
+# split provinces and subregions
+# capitalize columnnames; REGIONTYPE
+# Sum TOTALIN_IN_RESP and TOTAL_IN_ECMO cases
+# Ref: https://epistat.sciensano.be/COVID19BE_codebook.pdf
+
 def editDataBE():
     abspath = os.path.abspath(__file__)
     dname = os.path.dirname(abspath)
