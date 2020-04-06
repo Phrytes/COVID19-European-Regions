@@ -10,7 +10,7 @@ Active.Hosp.Cases,totale_ospedalizzati,,hospitalises,TOTAL_IN,,,,
 Active.Hosp.Cases.Symptoms,ricoverati_con_sintomi,,,,,,,
 Active.Hosp.Cases.Resp,,,reanimation,TOTAL_IN_RESP,,,,
 Active.Home.Confin.,isolamento_domiciliare,,,,,,,
-Cumul.Cases,totale_casi,ncumul_conf,cas_confirmes,CASES,Anzahl,casos,value,aantal
+Cumul.Cases,totale_casi,ncumul_conf,cas_confirmes,CASES,Anzahl,casos,value,Aantal
 Cumul.Hosp.Cases,,ncumul_hosp,,,,hospitalizados,,
 Cumul.IC.cases,,ncumul_ICU,,,,uci,,
 Cumul.Hosp.Cases.Resp,,ncumul_vent,,,,,,

@@ -9,9 +9,11 @@ def editDataNL():
 
     # Aggregate the following file:
     dfNL = pandas.read_csv('../Data/Sources/NL/data/rivm_corona_in_nl.csv')
-    dfNL = dfNL.groupby(['Datum', 'Provincienaam'], as_index=False)[['Aantal']].sum()
-    dfNL.columns = ['Date', 'Region', 'value']
-    dfNL['variable'] = 'Conf.Cases'
+    # Load column names:
+    colNames = pandas.read_csv('variableTable_ALL.csv', index_col="NL")[["Measure"]].to_dict()['Measure']
+    dfNL = dfNL.rename(columns=colNames)
+    dfNL = dfNL.groupby(['Date', 'Region'], as_index=False)[['Cumul.Cases']].sum()
+    dfNL = dfNL.melt(id_vars=['Date', 'Region'])
     dfNL['RegionType'] = 'Province'
     dfNL['Country'] = 'NL'
     return dfNL

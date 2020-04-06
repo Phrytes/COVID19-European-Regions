@@ -9,9 +9,14 @@ def editDataFR():
 
     # Aggregate the following file:
     dfFR = pandas.read_csv('../Data/Sources/FR/dist/chiffres-cles.csv')
-    dfFR.columns = ['Date', 'RegionType', 'RegionCode', 'Region', 'Conf.Cases', 'Deceas.Cases', 'Deceas.Cases.NursingHome', 'Hosp.Resp.Cases', 'Hosp.Cases', 'Cured.Cases', 'Screened', 'sourcenom', 'sourceurl', 'sourcearchive', 'sourcetype']
-    dfFR = dfFR.drop(['sourcenom', 'sourceurl', 'sourcearchive', 'sourcetype'], axis=1)
-    dfFR = dfFR.melt(id_vars=['Date', 'RegionType', 'RegionCode', 'Region'])
+
+    # Load column names:
+    colNames = pandas.read_csv('variableTable_ALL.csv', index_col="FR")[["Measure"]].to_dict()['Measure']
+    dfFR = dfFR.rename(columns=colNames)
+    dfFR = dfFR.drop(["source_nom", "source_url", "source_type", "source_archive"], axis=1)
+    dfFR['RegionType'] = 'Region'
+    dfFR['Country'] = 'FR'
+    dfFR = dfFR.melt(id_vars=['Country', 'Date', 'Region', 'RegionCode', 'RegionType'])
     dfFR['Country'] = "FR"
     return dfFR
 

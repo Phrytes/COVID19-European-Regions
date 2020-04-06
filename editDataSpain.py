@@ -18,8 +18,10 @@ def editDataES():
         all_df.append(df)
 
     dfES = pandas.concat(all_df, ignore_index=True, sort=True)
+    # Load variable names:
+    varNames = pandas.read_csv('variableTable_ALL.csv', index_col="ES")[["Measure"]].to_dict()['Measure']
     dfES['variable'] = pandas.Categorical( dfES['variable'])\
-        .rename_categories({'altas': 'Cured.Cases', 'casos': 'Conf.Cases', 'fallecidos': 'Deceas.Cases', 'hospitalizados': 'Hosp.Cases', 'uci' : 'IC.Cases'})
+        .rename_categories(varNames)
     dfES.columns = ['Region', 'RegionCode', 'Date', 'value', 'variable']
     dfES['Country'] = 'ES'
     return dfES

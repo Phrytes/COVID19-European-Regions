@@ -18,10 +18,13 @@ def editDataBE():
     dfBE_Hosp = pd.read_excel(dataFilesBE, sheet_name='HOSP')
     dfBE_Hosp['DATE']=dfBE_Hosp['DATE'].astype(str)
     dfBE_Mort = pd.read_excel(dataFilesBE, sheet_name='MORT')
+    #dfBE_Cases_Cum = pd.read_excel(dataFilesBE, sheet_name='CASES_MUNI_CUM')
     # Aggregate files
     # 1. By region
     dfBE_Hosp_Regions = dfBE_Hosp.groupby(['DATE', 'REGION'], as_index=False).sum()
     dfBE_Mort_Regions = dfBE_Mort.groupby(['DATE', 'REGION'], as_index=False).sum()
+    #dfBE_Cases_Cum = dfBE_Cases_Cum.groupby(['DATE', 'TX_PROV_DESCR_NL'], as_index=False).sum()
+    #dfBE_Cases_Cum.columns = {'TX_PROV_DESCR_NL': 'REGION'}
     dfBE_Regions = pd.merge(dfBE_Mort_Regions, dfBE_Hosp_Regions, on=['DATE', 'REGION'])
     dfBE_Regions.columns = ['Date', 'Region', 'Deceas.Cases', 'reportingHospitals', 'Hosp.Cases', 'IC.Cases', 'Hosp.Resp.Cases',
                     'ecmoCases', 'new_in.Hosp.Cases', 'new_out.Hosp.Cases']

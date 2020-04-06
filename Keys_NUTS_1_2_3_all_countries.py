@@ -2,6 +2,7 @@ from importlib import reload
 import geopandas as gp
 import pandas as pd
 import matplotlib
+import geoplot as gplt
 from matplotlib import cm
 # import own files
 import editDataAllCountries
@@ -38,4 +39,13 @@ linkTable = pd.read_csv(".\\countriesLinkTable.csv")
 # Combine with data
 combinedLinked = pd.merge(combined_df, linkTable, left_on="Region", right_on="ORIGINAL_NAME")
 combinedGeo = pd.merge(geoData, combinedLinked, left_on="NUTS_NAME", right_on="NUTS_NAME")
-test = combinedGeo[combinedGeo['variable']=='Deceas.Cases'].plot(figsize=(10,20), color='#3B3C6E')
+#test = combinedGeo[combinedGeo['variable']=='Cumul.Cases'].plot(figsize=(10,20), color='#3B3C6E')
+
+#plot the data
+combinedGeo[(combinedGeo['Date']=='2020-04-02') & (combinedGeo['variable']=='Cumul.Cases')].plot(column='value', legend=True)
+
+gplt.choropleth(
+    combinedGeo[(combinedGeo['Date'] == '2020-04-02') & (combinedGeo['variable'] == 'Cumul.Cases')],
+    hue='value',
+    legend=True
+)
