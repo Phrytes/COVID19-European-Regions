@@ -49,6 +49,7 @@ def editDataALL():
     allDataFrames.append(dfBE)
 
     combined_df = pd.concat(allDataFrames, ignore_index=True, sort=True)
+    combined_df['Date'] = combined_df['Date'].apply(str)
     return combined_df
 
 countryCodes = ['BE', 'FR', 'DE', 'IT', 'NL', 'ES', 'CH', 'UK']

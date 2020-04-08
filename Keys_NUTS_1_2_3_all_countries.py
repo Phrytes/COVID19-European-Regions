@@ -45,7 +45,13 @@ combinedGeo = pd.merge(geoData, combinedLinked, left_on="NUTS_NAME", right_on="N
 combinedGeo[(combinedGeo['Date']=='2020-04-02') & (combinedGeo['variable']=='Cumul.Cases')].plot(column='value', legend=True)
 
 gplt.choropleth(
-    combinedGeo[(combinedGeo['Date'] == '2020-04-02') & (combinedGeo['variable'] == 'Cumul.Cases')],
+    combinedGeo[(combinedGeo['Date']=='2020-03-30') & (combinedGeo['variable']=='Cumul.Cases')],
+    hue='value',
+    legend=True
+)
+
+gplt.choropleth(
+    combinedGeo[(combinedGeo['Date']=='2020-03-30') & (combinedGeo['variable']=='Cumul.Deceas.Cases')],
     hue='value',
     legend=True
 )

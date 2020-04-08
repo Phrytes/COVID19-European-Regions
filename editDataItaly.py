@@ -15,6 +15,7 @@ def editDataIT():
     dfIT = dfIT.drop(["lat", "long", "note_it", "note_en"], axis=1)
     dfIT['RegionType'] = 'Region'
     dfIT['Country'] = 'IT'
+    dfIT['Date'] = pandas.to_datetime(dfIT['Date']).dt.date
     dfIT = dfIT.melt(id_vars=['Country', 'Date', 'Region', 'RegionCode', 'RegionType'])
     return dfIT
 
