@@ -1,8 +1,8 @@
 Measure,IT,CH,FR,BE,DE,ES,UK,NL
 Date,data,date,date,DATE,Date,fecha,Date,Datum
 Country,stato,,,,,,,
-RegionCode,codice_regione,abbreviation_canton_and_fl,maille_code,,,cod_ine,GSS_CD,
-Region,denominazione_regione,,maille_nom,REGION,Bundesland,CCAA,UTLA,Provincienaam
+RegionCode,codice_regione,abbreviation_canton_and_fl,maille_code,,,cod_ine,GSS_CD,Gemeentecode
+Region,denominazione_regione,,maille_nom,REGION,Bundesland,CCAA,UTLA,Gemeentenaam
 RegionType,,,granularite,REGIONTYPE,,,type,
 Active.Cases,totale_positivi,,,,,,,
 Active.IC.cases,terapia_intensiva,,,TOTAL_IN_ICU,,,,
@@ -10,7 +10,7 @@ Active.Hosp.Cases,totale_ospedalizzati,,hospitalises,TOTAL_IN,,,,
 Active.Hosp.Cases.Symptoms,ricoverati_con_sintomi,,,,,,,
 Active.Hosp.Cases.Resp,,,reanimation,TOTAL_IN_RESP,,,,
 Active.Home.Confin.,isolamento_domiciliare,,,,,,,
-Cumul.Cases,totale_casi,ncumul_conf,cas_confirmes,CASES,Anzahl,casos,value,Aantal
+Cumul.Cases,totale_casi,ncumul_conf,cas_confirmes,CASES,Anzahl,casos,value,
 Cumul.Hosp.Cases,,ncumul_hosp,,,,hospitalizados,,
 Cumul.IC.cases,,ncumul_ICU,,,,uci,,
 Cumul.Hosp.Cases.Resp,,ncumul_vent,,,,,,
